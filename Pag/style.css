@@ -56,7 +56,7 @@ section {
     text-transform: uppercase;
     font-size: 1.125rem;
     padding: .5em 1.25em;
-    background: var(--clr-accent, blue);
+    background: var(--clr-accent, red);
     border-radius: .25em;
     transition: 
         transform 250ms ease-in-out,
